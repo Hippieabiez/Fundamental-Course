@@ -9,7 +9,7 @@
                     <th colspan="4"><input type="text" name="display"></th>
                 </tr>
                 <tr>
-                    <td colspan="2"><button>AC</button></td></td>
+                    <td colspan="2"><button class="red">AC</button></td></td>
                     <td><button class="blue">C</button></td>
                     <td><button class="orange">*</button></td>
                 </tr>
@@ -40,7 +40,7 @@
             </table>
             <style>
                 button {
-                    width: 100%
+                    width: 100%;
                     border: none;
                 }
                 .red {
