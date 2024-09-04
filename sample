@@ -4,6 +4,13 @@
         <litle> fadli class </litle>
         </head>
         <body>
-            <h1> This Is My Love !</h1>
+            <table>
+                <tr>
+                    <th colspan="4"><input type="text" name="display"></th>
+                </tr>
+                <tr>
+                    <td colspan="2"><button>AC</button></td></td>
+                </tr>
+            </table>
         </body>
 </html> 
